@@ -1,2 +1,3 @@
 # DeepEngine_deps
-All the Dependencies for building The 2D Game Engine [Deep Engine]
+All the Dependencies needed for building & compiling [Deep Engine]
+
